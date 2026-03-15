@@ -38,7 +38,7 @@ options:
 For example:
 
 ```sh
-git clone https://github.com/caelestia-dots/caelestia.git ~/.local/share/caelestia
+git clone [https://github.com/Champion2049/dotfiles.git](https://github.com/Champion2049/dotfiles.git) ~/.local/share/caelestia
 ~/.local/share/caelestia/install.fish
 ```
 
@@ -90,7 +90,7 @@ Simply run `yay` to update the AUR packages, then `cd` into the repo directory a
 
 > [!NOTE]
 > These dots do not contain a login manager (for now), so you must install a
-> login manager yourself unless you want to log in from a TTY. I recommend
+> login manager yourself unless you want to log in from a TTY. Recommend ones include
 > [`greetd`](https://sr.ht/~kennylevinsen/greetd) with
 > [`tuigreet`](https://github.com/apognu/tuigreet), however you can use
 > any login manager you want.
