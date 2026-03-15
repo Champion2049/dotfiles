@@ -77,43 +77,6 @@ Then copy or symlink the `hypr`, `foot`, `fish`, `fastfetch`, `uwsm` and `btop` 
 `$XDG_CONFIG_HOME` (usually `~/.config`) directory. e.g. `hypr -> ~/.config/hypr`.
 Copy `starship.toml` to `$XDG_CONFIG_HOME/starship.toml`.
 
-#### Installing Spicetify configs:
-
-Follow the Spicetify [installation instructions](https://spicetify.app/docs/advanced-usage/installation),
-copy or symlink the `spicetify` folder to `$XDG_CONFIG_HOME/spicetify` and run
-
-```sh
-spicetify config current_theme caelestia color_scheme caelestia custom_apps marketplace
-spicetify apply
-```
-
-#### Installing VSCode/VSCodium configs:
-
-Install VSCode or VSCodium, then copy or symlink `vscode/settings.json` and
-`vscode/keybindings.json` into the `$XDG_CONFIG_HOME/Code/User` (or `$XDG_CONFIG_HOME/VSCodium/User`
-if using VSCodium) folder. Then copy or symlink `vscode/flags.conf` to `$XDG_CONFIG_HOME/code-flags.conf`
-(or `$XDG_CONFIG_HOME/codium-flags.conf` if using VSCodium).
-
-Finally, install the extension VSIX from `vscode/caelestia-vscode-integration`.
-
-```sh
-# Use `codium` if using VSCodium
-code --install-extension vscode/caelestia-vscode-integration/caelestia-vscode-integration-*.vsix
-```
-
-#### Installing Zen Browser configs:
-
-Install Zen Browser, then copy or symlink `zen/userChrome.css` to the `chrome` folder in your
-profile of choice in `~/.zen`. e.g. `zen/userChrome.css -> ~/.zen/<profile>/chrome/userChrome.css`.
-
-Now install the native app by copying `zen/native_app/manifest.json` to
-`~/.mozilla/native-messaging-hosts/caelestiafox.json` and replacing the `{{ $lib }}` string in it
-with the absolute path of `~/.local/lib/caelestia` (this must be the absolute path, e.g.
-`/home/user/.local/lib/caelestia`). Then copy or symlink `zen/native_app/app.fish` to
-`~/.local/lib/caelestia/caelestiafox`.
-
-Finally, install the CaelestiaFox extension from [here](https://addons.mozilla.org/en-US/firefox/addon/caelestiafox).
-
 ## Updating
 
 Simply run `yay` to update the AUR packages, then `cd` into the repo directory and run `git pull` to update the configs.
