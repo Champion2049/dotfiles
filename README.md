@@ -4,8 +4,8 @@ This is a modified repo of the main caelestia dots and contains the modified con
 
 ## Screenshots
 
-![My Caelestia Setup](assets/caelestia_rice1.png)
-![My Caelstia Aesthetic](assets/caelestia_rice2.png)
+![My Caelestia Setup](assets/caelids_rice1.png)
+![My Caelstia Aesthetic](assets/caelids_rice2.png)
 
 ## Installation
 
