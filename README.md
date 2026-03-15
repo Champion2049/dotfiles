@@ -1,7 +1,6 @@
-# caelestia
+# Caelestia
 
-This is the main repo of the caelestia dots and contains the user configs for
-apps. This repo also includes an install script to install the entire dots.
+This is a modified repo of the main caelestia dots and contains the modified configs and files for my personal installation. This repo also includes an install script to install the entire dots.
 
 ## Installation
 
