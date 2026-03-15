@@ -38,7 +38,7 @@ options:
 For example:
 
 ```sh
-git clone [https://github.com/Champion2049/dotfiles.git](https://github.com/Champion2049/dotfiles.git) ~/.local/share/caelestia
+git clone https://github.com/Champion2049/dotfiles.git ~/.local/share/caelestia
 ~/.local/share/caelestia/install.fish
 ```
 
