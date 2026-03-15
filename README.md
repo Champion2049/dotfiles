@@ -133,11 +133,16 @@ There aren't really any usage instructions... these are a set of dotfiles.
 Here's a list of useful keybinds though:
 
 -   `Super` - open launcher
--   `Super` + `#` - switch to workspace `#`
--   `Super` `Alt` + `#` - move window to workspace `#`
--   `Super` + `T` - open terminal (foot)
--   `Super` + `W` - open browser (zen)
--   `Super` + `C` - open IDE (vscodium)
+-   `Super` + `>` - open launcher additional settings
+-   `Super` + `#` - switch to workspace `#` (number)
+-   `Super` `Alt` + `#` - move window to workspace `#` (number)
+-   `Super` + `Q` - open terminal (foot)
+-   `Super` + `B` - open browser (firefox)
+-   `Super` + `M` - open spotify in a special workspace
+-   `Super` + `D` - open discord
+-   `Super` + `Alt` + `W` - change active wallpaper
+-   `Super` + `Alt` + `M` - mute/ unmute the wallpaper
+-   `Super` + `C` - close window
 -   `Super` + `S` - toggle special workspace or close current special workspace
 -   `Ctrl` `Alt` + `Delete` - open session menu
 -   `Ctrl` `Super` + `Space` - toggle media play state
