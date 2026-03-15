@@ -109,3 +109,6 @@ Here's a list of useful keybinds though:
 -   `Ctrl` `Alt` + `Delete` - open session menu
 -   `Ctrl` `Super` + `Space` - toggle media play state
 -   `Ctrl` `Super` `Alt` + `R` - restart the shell
+
+## Screenshots
+![My Caelestia Setup](assets/caelestia_rice1.png)
