@@ -2,6 +2,11 @@
 
 This is a modified repo of the main caelestia dots and contains the modified configs and files for my personal installation. This repo also includes an install script to install the entire dots.
 
+## Screenshots
+
+![My Caelestia Setup](assets/caelestia_rice1.png)
+![My Caelstia Aesthetic](assets/caelestia_rice2.png)
+
 ## Installation
 
 Simply clone this repo and run the install script (you need
@@ -109,6 +114,3 @@ Here's a list of useful keybinds though:
 -   `Ctrl` `Alt` + `Delete` - open session menu
 -   `Ctrl` `Super` + `Space` - toggle media play state
 -   `Ctrl` `Super` `Alt` + `R` - restart the shell
-
-## Screenshots
-![My Caelestia Setup](assets/caelestia_rice1.png)
